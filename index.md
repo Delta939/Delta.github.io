@@ -3,11 +3,25 @@
 <TITLE>Ejemplo 3</TITLE>
 </HEAD>
 <BODY>
+
 Esto es texto simple: cada navegador lo visualizará según su configuración por defecto.
+
+<div>
 <FONT SIZE="1">Este texto es tamaño 1.</FONT>
+</div>
+
+<div>
 <FONT SIZE="2">Este texto es tamaño 2.</FONT>
+</div>
+
+<div>
 <FONT SIZE="4">Este texto es tamaño 4.</FONT>
+</div>
+
+<div>
 <FONT SIZE="+1">Este texto es tamaño +1 (que es lo mismo que tamaño 4).</FONT>
 <FONT FACE="Arial" SIZE="5" COLOR="#00bcab">Este texto posee varias especificaciones de formato.</FONT>
+</div>
+
 </BODY>
 </HTML>
