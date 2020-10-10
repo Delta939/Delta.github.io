@@ -1,7 +1,6 @@
 <HTML>
 <HEAD>
 <TITLE>Curriculum</TITLE>
- {{page.title}}
 </HEAD>
 <BODY>
 <FONT FACE="Arial" SIZE="5" COLOR="#00bcab">Mi nombre es Francisco Manuel Garcia Martinez soy Desarrollador Web </FONT>
