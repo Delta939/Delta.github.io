@@ -5,7 +5,9 @@
 <BODY>
 <FONT FACE="Arial" SIZE="5" COLOR="#00bcab">Mi nombre es Francisco Manuel Garcia Martinez soy Desarrollador Web </FONT>
   <br>
-<FONT FACE="Arial" SIZE="5" COLOR="#00bcab">Paginas web que he desarrollado </FONT>
+<FONT FACE="Arial" SIZE="5" COLOR="#00bcab">Habilidades: Php, en base de datos MySQL domino el CRUD(create(crear) , read(leer) ,update(actualizar) , delete(borrar) ), search(buscar), html, javascript, css, java consola, java swing, java jsp, spring(principios basicos), hibernate(principios basicos), Python(principios basicos)  </FONT>
+  <br>
+<FONT FACE="Arial" SIZE="5" COLOR="#00bcab">Aqui abajo pongo los enlaces a las paginas web que he desarrollado </FONT>
 
 <div>
 
